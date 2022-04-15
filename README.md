@@ -8,7 +8,7 @@
 
 ## User Registration, User Login and Authorization process.
 The diagram shows flow of how we implement User Registration, User Login and Authorization process.
-
+![node-js-express-login-example-mongodb-flow](https://user-images.githubusercontent.com/74970749/163567225-9bb0c615-d76c-4521-b49d-20a0672f365c.PNG)
 
 ## Project setup
 ```
