@@ -1,4 +1,4 @@
-# Node.js Express Login and Registration example with Cosmos DB API for MongoDB and JWT
+# Node.js Express Login and Registration example with MongoDB/Cosmos DB API for MongoDB and JWT
 
 - Appropriate Flow for User Login and Registration with JWT and Cookies
 - Node.js Express Architecture with CORS, Authentication & Authorization middlewares & Sequelize
